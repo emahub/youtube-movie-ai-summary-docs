@@ -1,3 +1,12 @@
+# YouTube映像AI要約 ドキュメント
+
+「YouTube映像AI要約」Chrome拡張機能の公開ドキュメントです。
+
+- [セットアップ手順書（Gemini APIキーの取得）](./setup-guide/setup-guide.md)
+- [プライバシーポリシー](#プライバシーポリシーyoutube映像ai要約)
+
+---
+
 # プライバシーポリシー（YouTube映像AI要約）
 
 最終更新日: 2026-08-08
